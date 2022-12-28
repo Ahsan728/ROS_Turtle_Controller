@@ -1,8 +1,0 @@
-prefix=/home/ahsan/catkin_ws/devel
-
-Name: robot_controller
-Description: Description of robot_controller
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
